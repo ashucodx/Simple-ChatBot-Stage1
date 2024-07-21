@@ -26,6 +26,7 @@ pairs = [
         ["I don't know the weather, but you can check online."]
     ],
 ]
+
 chatbot = Chat(pairs, reflections)
 def start_chatbot():
     print("Hi! I am a simple chatbot. Type 'quit' to exit.")
